@@ -34,6 +34,10 @@ I am a front-end developer with a passion for staying up-to-date with the latest
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LaurentTL&theme=radical&repo=bit-senpai-v2)](https://github.com/LaurentTL/bit-senpai-v2)
 
 <!--
+
+https://github.com/anuraghazra/github-readme-stats
+
+
 **LaurentTL/LaurentTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
