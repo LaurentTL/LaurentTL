@@ -4,7 +4,7 @@ I am a front-end developer with a passion for staying up-to-date with the latest
 
 [![Laurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaurentTL&theme=radical)](https://github.com/LaurentTL/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentTL&layout=compact)](https://github.com/LaurentTL/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentTL&theme=radical&layout=compact)](https://github.com/LaurentTL/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LaurentTL&repo=bit-senpai-v2)](https://github.com/LaurentTL/bit-senpai-v2)
 
