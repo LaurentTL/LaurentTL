@@ -6,6 +6,8 @@ I am a front-end developer with a passion for staying up-to-date with the latest
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentTL&layout=compact)](https://github.com/LaurentTL/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LaurentTL&repo=bit-senpai-v2)](https://github.com/LaurentTL/bit-senpai-v2)
+
 <!--
 **LaurentTL/LaurentTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
