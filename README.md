@@ -29,6 +29,8 @@ I am a front-end developer with a passion for staying up-to-date with the latest
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentTL&theme=radical&layout=compact)](https://github.com/LaurentTL/github-readme-stats)
 
+### BitSenpaï v2 : my current main project 🚀
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LaurentTL&theme=radical&repo=bit-senpai-v2)](https://github.com/LaurentTL/bit-senpai-v2)
 
 <!--
