@@ -2,7 +2,7 @@
 
 I am a front-end developer with a passion for staying up-to-date with the latest technologies. I have experience with HTML, CSS, JavaScript, and various front-end frameworks and tools. I am currently seeking my first job opportunity to put my skills to use and grow as a developer.
 
-[![Laurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaurentTL&&bg_color=DEG,#3b82f6,#9333e)](https://github.com/LaurentTL/github-readme-stats)
+[![Laurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaurentTL&&bg_color=45,#3b82f6,#9333e)](https://github.com/LaurentTL/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentTL&layout=compact)](https://github.com/LaurentTL/github-readme-stats)
 
